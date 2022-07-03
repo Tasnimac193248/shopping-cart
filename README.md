@@ -8,7 +8,7 @@ A simple E-commerce shopping cart using Flask.
 
 ## How to run ##
 1. Run python3 -m venv venv
-2. Run source venv/bin/activate
+2. Run source venv/bin/activate (ubuntu) source venv/Scripts/activate (windows)
 3. Run pip install -r requirements.txt
 4. Set up database by running database.py
 5. Run main.py
